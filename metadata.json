@@ -1,0 +1,6 @@
+{
+  "name": "Włoska Motoryzacja",
+  "description": "Profesjonalny serwis i części zamienne dla samochodów włoskich - Fiat, Alfa Romeo, Lancia w Jasienicy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
